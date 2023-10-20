@@ -1,5 +1,7 @@
 # Rock-Paper-Scissor
 
+View Live @https://scattershott.github.io/Rock-Paper-Scissor/
+
 HOMEPAGE!!
 ![homepage](https://github.com/scattershott/Rock-Paper-Scissor/assets/147977105/659c9fbd-c507-4f83-b28d-6d9bd8e413a4)
 
