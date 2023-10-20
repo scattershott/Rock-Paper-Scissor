@@ -3,10 +3,10 @@
 Ready to challenge a computer's 🧠 cunning in a game of wits? Look no further! Welcome to the ultimate showdown of Rock, Paper, Scissors, where you take on the mightiest computer brains.
 
 ### HOMEPAGE 🏡
-![homepage](https://github.com/scattershott/Rock-Paper-Scissor/raw/main/assets/147977105/659c9fbd-c507-4f83-b28d-6d9bd8e413a4.png)
+![homepage](https://github.com/scattershott/Rock-Paper-Scissor/raw/main/assets/147977105/659c9fbd-c507-4f83-b28d-6d9bd8e413a4)
 
 ### GAMEPLAY WITH COMPUTER BRAINS 🧠
-![gameplay](https://github.com/scattershott/Rock-Paper-Scissor/raw/main/assets/147977105/8a6ee4d6-a36d-46e3-8e1a-0b7a23c1d971.png)
+![gameplay](https://github.com/scattershott/Rock-Paper-Scissor/raw/main/assets/147977105/8a6ee4d6-a36d-46e3-8e1a-0b7a23c1d971)
 
 Dare to challenge the virtual intellect? Rock, Paper, Scissors - the stakes are high, and the choices are yours. Make your move, and let's see who comes out victorious! Enjoy the thrill and excitement of this classic game, reimagined for the digital age.
 
